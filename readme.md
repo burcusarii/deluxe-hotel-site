@@ -14,14 +14,14 @@
 &nbsp;
 
 - ## utils.css dosyası içerisinde;
-    * ### site içerisinde kullanılacak genel renkler için renk değişkenleri oluşturulmuştur.
+    * ### Site içerisinde kullanılacak genel renkler için renk değişkenleri oluşturulmuştur.
     * ### index.html içerisindeki farklı section'larda kullanılacak ortak özellikler için flex-box özellikleri tanımlanmıştır.
-    * ### site içerisinde kullanılacak farklı tipte butonlar için tanımlamalar yapılmıştır.
+    * ### Site içerisinde kullanılacak farklı tipte butonlar için tanımlamalar yapılmıştır.
     
    &nbsp;
  
 - ## style.css dosyası içerisinde;
-    * ### bu projeye özel oluşturulmuş section class'ları biçimlendirme yapılmıştır.
+    * ### Bu projeye özel oluşturulmuş section class'ları ile birlikte biçimlendirme yapılmıştır.
     
 
 
